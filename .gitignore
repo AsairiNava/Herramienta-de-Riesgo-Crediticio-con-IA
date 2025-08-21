@@ -1,0 +1,13 @@
+# Entorno y caches
+.venv/
+__pycache__/
+*.pyc
+
+# Datos y modelos pesados
+data/raw/
+data/processed/
+models/
+reports/
+
+# Streamlit
+.streamlit/
